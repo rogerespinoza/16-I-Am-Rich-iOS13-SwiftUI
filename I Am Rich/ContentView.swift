@@ -15,7 +15,7 @@ struct ContentView: View {
             
             VStack {
                 Text("I Am Rich")
-                    .font(.system(size: 40))
+                    .font(.system(size: 42))
                     .fontWeight(.bold)
                     .foregroundColor(Color.white)
                 Image("diamond")
